@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body
+{
+    background-color: white;
+}
+.headertab
+{
+border:15px solid blue;	
+padding-left:50px;
+
+}
+.searchtab
+{
+border:2px solid white;
+border-left:25px;
+font-family:sans-serif;
+}
+.searchtab_textbox
+{
+	
+}
+.Navbar {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: #87878790;
+    background-color: #fff;
+    margin-bottom: 1em;
+}
+
+.Navbar a
+{
+    color: black;
+    font-size: .85em;
+    text-decoration: none;
+}
+.main-clib
+{
+	
+	float:inline-block;
+	
+}
+.clib
+{	padding : 0px;
+	margin : 0px;
+	font-size :.85em;
+	font-family: sans-serif;
+	display:inline-block;
+	background-color:white;
+	
+}
+
+.clib2
+{
+	display:inline-block;
+	margin:0px;
+	padding:0px;
+	height:60%;
+	}
+.clib2 img{
+		
+		
+		height:60%;
+		width:60%;
+		transform: scale(.97);
+		}
+		
+.clib2 img:hover{
+    transform: scale(1);
+}
+.sales img{
+    height: 60%;
+   
+}
+
+.view-btn{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.view-btn button{
+    font-size: .9em;
+    padding: .4em 1.5em;
+    border-radius: 0;
+}
+.slider-heading h4{
+    font-size: 1.5em;
+    margin-bottom: 0;
+}
+
+.slider-heading h6{
+    font-size: .9em;
+    margin-bottom: 0;
+}
+
+.slider-heading h4{
+        font-size: 1.2em;
+        margin-bottom: 0;
+    }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
